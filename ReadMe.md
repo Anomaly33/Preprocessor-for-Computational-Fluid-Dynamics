@@ -11,4 +11,4 @@ The main aim of a preprocessor is to extract the following information from the 
 7. Area of each triangular element in the domain.
 8. The outward normal of each edge in the domain.
 
-Each of the data mentioned above is used by the CFD solver to solve the given equation numerically.
+The data mentioned above is used by the CFD solver to solve the given equation numerically.
